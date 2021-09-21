@@ -1,6 +1,4 @@
-# 1000-7
-ZHX
-@abrikos_on:import time
+import time
 b = 1000
 print(" Я....")
 a = input ()
